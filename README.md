@@ -27,7 +27,7 @@ Usage
     
 ```
 
-
+More Ripple Effects -> https://android-arsenal.com/details/1/957
 
 License
 --------
